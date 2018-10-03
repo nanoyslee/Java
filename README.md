@@ -1,2 +1,1 @@
-# Java SE JDK 8 
-Eclipse
+# Java SE 8 JDK, Eclipse
